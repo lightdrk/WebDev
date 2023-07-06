@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(173, 173, 173);
+    display: flex;
+    justify-content: space-between;
+}
+
+#first_div{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#first_div p{
+    color: rgb(144, 240, 0);
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+canvas{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+}
+
+#input{
+    width: 80%;
+}
+
+#second_div{
+    margin-right: 95px;
+    margin-top: 30px;
+}
+
+#title{
+    font-size: large;
+    font-style: bold;
+}
+
+.button-container{
+    display: grid;
+    gap: 20px;
+}
+
+.button-container button{
+    width: 150px;
+    height: 40px;
+}

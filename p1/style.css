@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(35, 35, 90);
+    color:aliceblue;
+}
+h1{
+    size: 12px;
+    color: aliceblue;
+}
+
+p{
+    size: 5px;
+    color: antiquewhite;
+}
+a{
+    color:aquamarine;
+}
+.under_the_image{
+    size: 9px;
+    color:chartreuse;
+    
+}
+img{
+    border-color: beige;
+    max-width: 50%;
+}
+button{
+    background-color: chocolate;
+}
+#id-1{
+    size: 4px;
+}

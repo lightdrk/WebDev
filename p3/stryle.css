@@ -1,0 +1,9 @@
+#title{
+    color: green;
+}
+#first{
+    color: red;
+}
+p[class="new"]{
+    color :blue
+}
